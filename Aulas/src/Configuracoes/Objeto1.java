@@ -3,8 +3,12 @@ package Configuracoes;
 public class Objeto1 {
 
 	int numeros;
+	int refatoracao;
 	double ponto;
-	//se Declaro inutil sempre inutil.
+	
+	public Objeto1() {	
+	}
+	 
 	
 	
 	
